@@ -1,4 +1,4 @@
-package com.jit.autostart;
+package com.jit.weishu;
 
 import android.content.Context;
 

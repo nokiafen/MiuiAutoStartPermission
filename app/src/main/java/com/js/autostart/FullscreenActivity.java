@@ -1,23 +1,16 @@
 package com.js.autostart;
 
-import android.annotation.SuppressLint;
-
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
-import android.os.Build;
 import android.os.Bundle;
-import android.os.Handler;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.WindowInsets;
 import android.widget.Toast;
 
-import com.jit.autostart.util.MobileInfoUtils;
-
 import xyz.kumaraswamy.autostart.Autostart;
+import xyz.kumaraswamy.autostart.MobileInfoUtils;
+
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.

@@ -1,4 +1,4 @@
-package com.jit.autostart.util;
+package xyz.kumaraswamy.autostart;
 
 import android.content.ComponentName;
 import android.content.Context;
